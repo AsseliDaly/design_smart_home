@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "design_smart_home",
+			"path": "."
+		},
+		{
+			"name": "assets",
+			"path": "../../../../Downloads/Smart-Home-Animated-App-using-Flutter-main/assets"
+		}
+	],
+	"settings": {}
+}
